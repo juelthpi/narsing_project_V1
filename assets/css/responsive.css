@@ -1,0 +1,759 @@
+@media all and (max-width: 1399px){
+    .custom_menu li a {
+        padding: 0 11px !important;
+    }
+    .form_item input {
+        padding: 8px 25px;
+        border-radius:40px;
+    }
+    .get_form {
+        padding: 25px;
+    }
+    .form_item,.form_item label{
+        margin-bottom: 8px;
+    }
+    .hero_content_area h1 {
+        font-size: 50px;
+        line-height: 50px;
+    }
+    .helth_career_left h1 {
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .pt80 {
+        padding-top: 50px;
+    }
+    .ptb150 {
+        padding: 90px 0;
+    }
+    .home_hero_area{
+        padding: 90px 0;
+    }
+    .free_consaltation {
+        padding:90px 0;
+    }
+    .ptb120{
+        padding:90px 0;
+    }
+    .pb150{
+        padding-bottom:90px;
+    }
+    .footer_area {
+        padding-top: 90px;
+    }
+    .office_location_info_area {
+        padding-top: 70px;
+    }
+    .office_di_thm_right {
+        width:70%;
+    }
+    .pt150 {
+        padding-top:90px;
+    }
+    .footer_copy_text {
+        margin-top: 20px;
+        padding-bottom: 25px;
+    }
+    .join_cna_container .helth_career_left .btn1 {
+        padding: 8px 35px;
+        border-radius: 145px;
+        margin-top: 15px;
+    }
+    .mission_thum_area{
+        margin-top: 50px;
+    }
+    .student_review_inner_area .owl-nav .owl-prev {
+        left: 0px;
+    }
+    .student_review_inner_area .owl-nav .owl-next {
+        right: 0;
+    }
+    .student_review_item {
+        padding: 20px 20px;
+    }
+    .free_consal_info{
+        padding-top: 0;
+    }
+    .free_consal_info h1 {
+        font-size: 40px;
+        line-height: 50px;
+        max-width: 100%;
+    }
+    .about_top_heading .choose_us_heading_section .helth_career_left h1 {
+        font-size: 40px;
+        line-height: 46px;
+    }
+    .about_top_shape img {
+        width: 150px;
+    }.about_top_heading .choose_us_heading_section .helth_career_left p {
+        margin-bottom: 30px;
+    }
+    .student_goal_heading {
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .about_counter_item {
+        margin-top: 5px;
+    }
+    .expected_content h3{
+        letter-spacing: 0;
+    }
+    .ncc {
+        margin: 0 auto;
+        text-align: center;
+        padding:50px 0;
+        padding-top: 50px;
+    }
+    .expected_content h3 {
+        font-size: 25px;
+    }
+    .expected_thum {
+        overflow: hidden;
+    }
+    .count_item h1, .count_item span {
+        font-size: 35px;
+        line-height: 40.6px;
+        margin-bottom: 0px;
+    }
+    .count_item p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .p_admision_heading h1 {
+        font-size: 40px;
+        line-height: 46px;
+        letter-spacing:0px;
+    }
+    .discover_right_cont h1 {
+        font-size: 40px;
+        line-height: 46px;
+        letter-spacing:0px;
+    }
+    .live_info_box {
+        right: 13px;
+        bottom: 2%;
+    }
+    .checkout_left_site{
+        border: none;
+    }
+    .payment_summary {
+        padding-left: 0;
+    }
+    .chekout_personal_info {
+        max-width: 90%;
+    }
+    .checkout_input_item input {
+        padding: 10px;
+    }
+    .checkout_input_item {
+        margin-bottom: 5px;
+    }
+    .checkout_input_item span {
+        font-size: 15px;
+    }
+    .payment_item_input, .payment_item_inputs input {
+        padding: 8px;
+        display: flex;
+        margin-bottom:5px; 
+    }
+    .payment_item_inputss {
+        padding: 8px;
+    }
+    .approvedby {
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .approvedby ul li img {
+        margin: 0 20px;
+        max-width: 80px;
+    }
+    .approvedby h6 {
+        font-size: 20px;
+        margin-bottom: 16px;
+    }
+    
+}
+@media all and (max-width: 1199px){
+    .logo img{
+        width: 80px;
+    }
+    .logo {
+        flex-basis: 25%;
+    }
+    .footer_widgets h3 {
+        margin-bottom: 10px;
+    }
+    .choose_feture {
+        max-width: 100%;
+        width: 49%;
+    }
+    .choose_us_thum {
+        max-width: 100%;
+        width: 49%;
+    }
+    .mission_item {
+        max-width: 100%;
+        width: 32%;
+    }
+}
+@media all and (max-width: 991px){
+	.navbar-collapse {
+        align-items: center;
+        width: 100%;
+        position: absolute;
+        background: #ffc900;
+        top: 111px;
+        z-index: 9;
+        padding: 20px;
+        border-radius: 10px;
+        /* text-align: center; */
+    }
+    .nav-item.active a {
+        color: #fff !important;
+    }
+    .nav-item {
+        padding: 5px 0;
+        transition: 0.5s;
+        border-bottom: 1px solid #ddd;
+        
+    }
+    .custom_menu li>a:hover {
+        color: #fff !important;
+    }
+    .nav-item:hover{
+        background-color: #8a6f0b;
+    }
+    .menu_right_mobile_show{
+        display: block;
+    }
+    .menu_right_area {
+        display: none;
+    }
+    .btn1 {
+        padding: 5px 30px;
+    }
+    .helth_carrer_option .btn1 {
+        padding: 8px 35px;
+    }
+    .helth_career_left h1 {
+        font-size: 35px;
+        letter-spacing: 0px;
+    }
+    .helth_career_left h6 {
+        font-size: 15px;
+    }
+    .office_location_info {
+        flex-wrap: wrap;
+    }
+    .office_location_content {
+        width: 100%;
+    }
+    .office_di_thm_right {
+        display:none;
+    }
+    .office_location_content h2 {
+        text-align: center;
+        max-width: 100%;
+    }
+    .office_location_btn a {
+        padding:8px 20px;
+    }
+    .office_location_btn {
+        text-align: center;
+    }
+    .office_location_content_item {
+        margin-bottom: 15px;
+        max-width: 100%;
+    }
+    .office_location_info_area {
+        padding-top: 0;
+    }
+    .google_map_headign {
+        text-align: center;
+    }
+    .google_map_headign p {
+        margin: 20px auto;
+    }
+    .google_map iframe {
+        max-width: 100%;
+    }
+    .contact_form_heading h3 {
+        margin-top: 25px;
+        text-align: center;
+        margin-bottom: 35px;
+    }
+    .contact_main_form_area {
+        padding: 10px;
+    }
+    .cont_single_fields {
+        padding: 10px 19px;
+    }
+    .contact_fields_items {
+        margin-bottom: 10px;
+    }
+    .contact_submit .btn1 {
+        padding: 10px 25px;
+    }
+    .hero_content_main_area {
+        
+        width: 65%;
+    }
+    .hero_content_area h1 {
+        font-size: 35px;
+        line-height: 38px;
+    }
+    .trusted_hostipal ul li {
+        margin: 15px;
+    }
+    .home_hero_area{
+        background-size: cover;
+    }
+    .btn1 {
+        font-size: 15px;
+    }
+    .choose_us_thum {
+        width: 100%;
+    }
+    .choose_feture {
+        width: 100%;
+    }
+    .choose_us_thum {
+        margin-bottom: 10px;
+    }
+    .choose_feture_item {
+        padding: 15px 15px;
+        margin-bottom: 10px;
+        margin: 10px;
+    }
+    .choose_feture_item_logo {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .choose_feture_item_cont {
+        width: 100%;
+        text-align: center;
+    }
+    .choose_feture_item {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .choose_feture_item_cont h3 {
+        font-size: 18px;
+        margin-bottom: 5px;
+    }
+    .choose_feture_item_cont p {
+        font-size: 15px;
+    }
+    .ptb150 {
+        padding: 70px 0;
+    }
+    .free_consaltation {
+        padding:70px 0;
+    }
+    .ptb120{
+        padding:70px 0;
+    }
+    .pt150 {
+        padding-top:70px;
+    }
+    .pb150{
+        padding-bottom:70px;
+    }
+    .join_rules ul {
+        padding: 0 20px;
+    }
+    .join_rules ul li {
+        margin-bottom: 16px;
+        width:48%;
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .student_review_item {
+        flex-basis: 49%;
+    }
+    .student_review_inner_area .owl-nav button.owl-prev, .student_review_inner_area .owl-nav button.owl-next {
+        height: 30px;
+        width: 30px;
+    }
+    .free_consal_info h1 {
+        font-size: 35px;
+        line-height: 45px;
+    }
+    .free_consal_rules ul li {
+        font-size: 16px;
+        margin-bottom: 10px;
+    }
+    .free_consal_request_for form {
+        padding: 15px 15px;
+    }
+    .free_Con_form_item {
+        margin-bottom: 5px;
+    }
+    .free_Con_form_item label {
+        font-size: 16px;
+        margin-bottom: 0px;
+    }
+    .affter_effect::after,.mission_items::after {
+        right: 0;
+    }
+    .mission_items::before {
+        left: 0;
+    }
+    .about_top_shape {
+        display: none;
+    }
+    .about_top_heading .helth_career_left h6{
+        text-align: left;
+    }
+    .about_top_heading .choose_us_heading_section .helth_career_left h1 {
+        font-size: 35px;
+        line-height: 46px;
+        letter-spacing: 0;
+    }
+    .about_counter_item h1, .about_counter_item span {
+        font-size: 30px;
+    }
+    .about_counter_item p {
+        font-size: 15px;
+        margin-top: 0px;
+    }
+    .p_admision_heading h1 {
+        font-size: 35px;
+    }
+    .p_admision_heading p {
+        margin-bottom: 25px;
+    }
+    .admision_item {
+        padding: 15px;
+        flex-wrap: wrap;
+        justify-content: center;
+        text-align: center;
+    }
+    .adminsion_txt h3 {
+        font-size: 20px;
+        margin-bottom: 5px;
+    }
+    .adminsion_logo img{
+        width:45px;
+    }
+    .discover_right_cont p {
+        font-size: 15px;
+        margin-bottom: 10px;
+        max-width: 100%;
+    }
+    .discover_right_cont h1 {
+        font-size:35px;
+    }
+    .course_item h5 {
+        font-size: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .checkout_left_site {
+        flex-basis: 100%;
+        margin-bottom: 30px;
+    }
+    .chekout_personal_info h3 {
+        text-align: center;
+    }
+    .checkout_right_site {
+        flex-basis: 100%;
+    }
+    .chekout_personal_info {
+        max-width: 100%;
+    }
+    .checkout_area {
+        
+        padding: 10px;
+    }
+    
+}
+
+@media all and (max-width: 767px){
+    .payment_tab_btn ul li {
+        padding: 8px 6px;
+        width: 100px;
+        margin-right: 2px;
+    }
+    .payment_summary table tr td b{
+        max-width: 161px;
+    }
+    .checkout_input_item label, .payment_type_area label {
+        font-size: 13px;
+        margin-bottom: 6px;
+
+    }
+    .payment_item_inputs {
+        flex-basis: 100%;
+    }
+    .discover_right_cont h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .course_item span {
+        font-size: 20px;
+    }
+    .adminsion_txt p {
+        line-height: 20px;
+    }
+    .p_admision_heading h1 {
+        font-size: 25px;
+        line-height: 30px;
+        letter-spacing: 0;
+    }
+	.mobile_search_box input {
+        padding: 6px;
+        width: 92% !important;
+    }
+    .helth_career_left h6 {
+        text-align: center !important;
+    }
+    .adminsion_logo {
+
+        margin-bottom: 10px;
+    }
+    .helth_career_left h1 {
+        font-size:25px;
+        margin-top: 0px;
+        text-align: center;
+        line-height: 30px;
+    }
+    .about_top_heading .choose_us_heading_section .helth_career_left h1 {
+        font-size:25px;
+        line-height: 30px;
+    }
+    .home_hero_area{
+        padding: 70px 0;
+    }
+    .footer_area {
+        padding-top: 70px;
+    }
+    .office_location_content h2 {
+        font-size: 25px;
+        letter-spacing: 0px;
+    }
+    .google_map_headign h3, .contact_form_heading h3 {
+        font-size: 25px;
+    }
+    .contact_ph_eml_icon {
+        height: 35px;
+        width: 35px;
+        padding: 0px;
+        margin-right: 5px;
+    }
+    .contact_ph_eml_des span {
+        font-size: 12px;
+        margin-bottom: 0px;
+    }
+    .contact_ph_eml_des a {
+        font-size: 14px;
+    }
+    .contact_ph_eml_item:last-child {
+        margin-right:0px;
+    }
+    .footer_widgets_logo{
+        display: none;
+    }
+    .Useful_link{
+        text-align: right;
+    }
+    .footer_widgets h3 {
+        text-align: right;
+    }
+    .footer_widgets p {
+        padding-bottom: 10px;
+    }
+    .get_form_area {
+        display: none;
+    }
+    .hero_content_main_area {
+        width: 100%;
+    }
+    .trusted_hostipal h6{
+        text-align: center;
+    }
+    .trusted_hostipal ul {
+        justify-content: center;
+    }
+    .hero_content_area h1 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .trusted_hostipal h6 {
+        margin-bottom: 10px;
+        margin-top: 30px;
+    }
+    .helth_career_left {
+        max-width: 100%;
+    }
+    .helth_carrer_option ul {
+        margin-top: 25px;
+        margin-bottom: 20px;
+    }
+    .affter_effect {
+        margin-bottom: 0px;
+        position: relative;
+        max-width: 100%;
+        margin-top: 30px;
+    }
+    .carrer_helth_thum img {
+        margin-top: 10px;
+    }
+    .student_review_item {
+        flex-basis: 100%;
+    }
+    .student_review_item p {
+        font-size: 15px;
+    }
+    .free_consal_rules {
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    .free_consal_info h1 {
+        font-size: 25px;
+    }
+    .about_thum img {
+        display: none;
+    }
+    .student_goal_heading h3 {
+        font-size: 18px;
+        line-height: 25px;
+    }
+  
+    .student_goal_list ul li {
+        font-size: 15px;
+        line-height: 20px;
+        margin-bottom: 10px;
+        flex-basis: 48%;
+    }
+    .student_goal_list ul {
+        justify-content: space-between;
+    }
+    .expected_thum img{
+        display: none;
+    }.expected_thum {
+        display: inherit;
+        margin-top: 30px;
+        position: relative;
+        /* justify-content: flex-end; */
+    }
+    .expected_count_area {
+        transform: translateY(0%);
+        position: inherit;
+        height: auto;
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: inherit;
+        justify-content: space-between;
+        
+    }
+    .count_item p br{
+        display: none;
+    }
+    .count_item {
+        width: 100%;
+        text-align: center;
+    }
+    
+   
+}
+
+@media all and (max-width: 575px){
+    .course_item ul {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .course_item ul li:first-child{
+        margin-bottom: 20px;
+    }
+    .footer_area {
+        padding-top: 50px;
+    }
+    .ptb150 {
+        padding: 50px 0;
+    }
+    .free_consaltation {
+        padding:50px 0;
+    }
+    .ptb120{
+        padding:50px 0;
+    }
+    .home_hero_area{
+        padding: 50px 0;
+    }
+    .pb150{
+        padding-bottom:50px;
+    }
+    .pt150 {
+        padding-top:50px;
+    }
+	.mobile_search_box input {
+        width: 80% !important;
+    }
+    .contact_phone_email_itesm {
+        margin-bottom: 20px;
+        flex-wrap: wrap;
+    }
+    .contact_ph_eml_item {
+        display: flex;
+        margin-bottom: 10px;
+    }
+    .contact_fields_items {
+        flex-wrap: wrap;
+    }
+    .cont_single_fields {
+        flex-basis: 100%;
+        margin-bottom: 10px;
+    }
+    .contact_fields_items textarea {
+        height: 150px;
+    }
+    .Useful_link,.footer_widgets h3 {
+        text-align: left;
+    }
+    .Useful_link{
+        margin-top: 20px;
+    }
+    .footer_copy_text {
+        justify-content: center;
+        flex-wrap: wrap;
+    }
+    .helth_carrer_option ul li img {
+        margin-right: 0px;
+    }
+    .join_rules ul li {
+        width: 100%;
+    }
+    .student_review_item {
+        padding: 10px 10px;
+    }
+    .student_review_inner_area .owl-nav .owl-prev {
+        top: inherit;
+        bottom: -1% !important;
+    }
+    .student_review_inner_area .owl-nav .owl-next {
+        
+        top: inherit;
+        
+        bottom: -1%;
+    }
+    .student_goal_list ul li {
+        flex-basis: 100%;
+    }
+    .payment_summary table tr td {
+        font-size: 13px;
+        font-weight: 400;
+    }
+    .payment_tab_btn ul li p {
+        font-size: 10px;
+        font-weight: 400;
+    
+    }
+    
+}
+
+@media all and (max-width: 450px){
+	
+}
